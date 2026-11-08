@@ -1,0 +1,75 @@
+{
+  "title": "Month 2, Week 2 (Dec 13 – Dec 19, 2026): Uncertain Diff, Small Round Cell Sarcomas, Sinonasal & Bone Tumors I",
+  "days": [
+    {
+      "id": "m02-w2-d1",
+      "date": "Sun, Dec 13",
+      "tag": "Soft Tissue II",
+      "badge": "b-soft",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Write out the 5-entity Deep Myxoid Soft Tissue Tumor table (vasculature, IHC, and translocations).<br><strong>Reading (75m):</strong> <em>WHO 5th Ed.</em> — Uncertain Differentiation: Synovial Sarcoma (Monophasic/Biphasic; <em>SS18::SSX1/2/4</em>, SS18-SSX+, TLE1+), Epithelioid Sarcoma (Proximal vs. Distal; <strong>INI1 loss</strong>, ERG+, CD34+ in 50%!), Alveolar Soft Part Sarcoma (<em>ASPSCR1::TFE3</em>, TFE3+, PAS-D crystals), Clear Cell Sarcoma (<em>EWSR1::ATF1</em>, S100/SOX10/HMB45+), DSRCT (<em>EWSR1::WT1</em>), &amp; PEComa.",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (Biphasic &amp; Monophasic Synovial Sarcoma, Distal Epithelioid Sarcoma mimicking granuloma annulare, ASPS, Clear Cell Sarcoma).<br><strong>QBank (30m):</strong> 15 Uncertain Differentiation MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log the classic pitfall: <strong>Distal Epithelioid Sarcoma on the hand/wrist of a young adult mimicking Necrobiotic Granuloma / SCC</strong> (Pan-CK+, EMA+, CD34+ [50%], ERG+, INI1 LOST!)."
+    },
+    {
+      "id": "m02-w2-d2",
+      "date": "Mon, Dec 14",
+      "tag": "Round Cell Sarcomas",
+      "badge": "b-soft",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Recall the 6 major INI1 (SMARCB1)-deficient neoplasms (AT/RT, Epithelioid sarcoma, Renal medullary carcinoma, Epithelioid MPNST, Myoepithelial carcinoma, SMARCB1-deficient sinonasal carcinoma).<br><strong>Reading (75m):</strong> <em>WHO 5th Ed.</em> — Undifferentiated Small Round Cell Sarcomas: Ewing Sarcoma (<em>EWSR1::FLI1/ERG</em>, membranous CD99+, NKX2.2+), Round Cell Sarcoma with <em>EWSR1</em>-non-ETS fusions (<em>EWSR1::NFATc2</em>), <em>CIC</em>-rearranged Sarcoma (<em>CIC::DUX4</em>, WT1+, ETV4+, patchy CD99), &amp; <em>BCOR</em>-altered Sarcoma (<em>BCOR::CCNB3</em>, BCOR+, SATB2+, TLE1+).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (Ewing sarcoma, <em>CIC</em>-rearranged sarcoma, <em>BCOR</em> sarcoma, DSRCT desmoplastic stroma, Undifferentiated Pleomorphic Sarcoma [UPS]).<br><strong>QBank (20m):</strong> 15 Small Round Blue Cell Tumor MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Study One-Pager 2 (Undifferentiated Small Round Cell Sarcoma IHC &amp; Molecular Matrix)."
+    },
+    {
+      "id": "m02-w2-d3",
+      "date": "Tue, Dec 15",
+      "tag": "Slides + Cyto",
+      "badge": "b-soft",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Draw the Small Round Blue Cell Tumor IHC &amp; Translocation matrix from memory (Ewing, CIC, BCOR, Alveolar RMS, DSRCT, Mesenchymal Chondrosarcoma).",
+      "b2": "<strong>Slide Sprint (60m):</strong> 10 Timed Virtual Slides: 6 Soft Tissue Round Cell slides (3m/case) + 4 Cervical Pap smears (<em>Bethesda</em>: ASC-H, SCC, AGC, Endocervical AIS feathering/rosettes @ 6m/case).<br><strong>QBank (45m):</strong> 20 Soft Tissue &amp; Gyn Cyto MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log <em>Bethesda</em> cytologic criteria for <strong>Endocervical Adenocarcinoma In Situ (AIS)</strong> (Pseudostratified strips, nuclear feathering, rosettes, cigar-shaped hyperchromatic nuclei, apical mitoses/apoptoses)."
+    },
+    {
+      "id": "m02-w2-d4",
+      "date": "Wed, Dec 16",
+      "tag": "Head & Neck II",
+      "badge": "b-cns",
+      "time": "2.0h",
+      "b1": "<strong>Secondary System — Sinonasal Tract &amp; Nasopharynx (90m):</strong> <em>WHO Head &amp; Neck 5th Ed.</em> — Sinonasal Papillomas (Inverted <em>EGFR</em>, Oncocytic <em>KRAS</em>, Exophytic HPV 6/11); Sinonasal Round/Undifferentiated Tumors: Olfactory Neuroblastoma (Hyams grade, S100+ sustentacular, Calretinin+, Synaptophysin+), SNUC (<em>IDH2</em> R172 mut!), <em>SMARCB1</em>- &amp; <em>SMARCA4</em>-deficient carcinomas, <em>NUT</em> Carcinoma (<em>BRD4::NUTM1</em>, abrupt keratinization), Biphenotypic Sinonasal Sarcoma (<em>PAX3::MAML3</em>, S100+/SMA+), Glomangiopericytoma (nuclear β-catenin+), &amp; Nasopharyngeal Carcinoma (EBER+).",
+      "b2": "<strong>QBank &amp; Slides (30m):</strong> 15 Sinonasal/Nasopharyngeal MCQs + 5 Spot Slides (Inverted papilloma, Olfactory neuroblastoma, NUT carcinoma, Nasopharyngeal carcinoma, Glomangiopericytoma).",
+      "b3": "<strong>SOE Deliverable:</strong> Study One-Pager 4 (Sinonasal Small Round Blue Cell &amp; Undifferentiated Tumor Panel) and log it in your SOE Log."
+    },
+    {
+      "id": "m02-w2-d5",
+      "date": "Thu, Dec 17",
+      "tag": "Recalls 15-23",
+      "badge": "b-soft",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Blank-sheet recall of Sinonasal Undifferentiated &amp; Small Round Cell Tumors (IHC and defining gene fusions/mutations).",
+      "b2": "<strong>QBank Sprint (60m):</strong> 30 Timed MCQs (15 Soft Tissue/Sinonasal + 15 <strong>2015–2023 Trainee Recalls</strong> on Soft Tissue &amp; Sinonasal/Nasopharynx).<br><strong>Deep Review (45m):</strong> Audit every recall distractor.",
+      "b3": "<strong>SOE Deliverable:</strong> Log missed Soft Tissue &amp; Sinonasal recall questions into the 4-Domain SOE Log."
+    },
+    {
+      "id": "m02-w2-d6",
+      "date": "Fri, Dec 18",
+      "tag": "Protected Rest",
+      "badge": "b-rest",
+      "time": "0–1h",
+      "b1": "<strong>Protected Weekly Rest Day.</strong>",
+      "b2": "<em>(Optional)</em> 30m review of Week 2 SOE Log entries.",
+      "b3": "Click <strong>Push</strong> to sync Week 2 of Month 2 to GitHub."
+    },
+    {
+      "id": "m02-w2-d7",
+      "date": "Sat, Dec 19",
+      "tag": "Bone Deep Dive I",
+      "badge": "b-soft",
+      "time": "4.5h",
+      "b1": "<strong>Primary System Deep Dive — Bone &amp; Cartilage Tumors Part 1 (2.5h):</strong> <em>WHO 5th Ed.</em> — Mandatory Radiologic-Pathologic Correlation (Epiphyseal vs. Metaphyseal vs. Diaphyseal); Cartilage Tumors: Osteochondroma (<em>EXT1/2</em>, cap &gt;2 cm = secondary chondrosarcoma), Enchondroma vs. Chondrosarcoma Grades 1–3 (<em>IDH1/2</em> mut, cortical permeation/host lamellar bone entrapment), Mesenchymal Chondrosarcoma (<em>HEY1::NCOA2</em>); Bone-Forming Tumors: Osteoid Osteoma vs. Osteoblastoma (<em>FOS/FOSB</em>+), Conventional Osteosarcoma, &amp; Parosteal Osteosarcoma (<em>MDM2</em> amp!).",
+      "b2": "<strong>Slides &amp; QBank (90m):</strong> 12 Bone Tumor Spot Slides @ 3m/case (Osteochondroma, Enchondroma vs. Chondrosarcoma permeative growth, Mesenchymal chondrosarcoma, Osteoid osteoma, Conventional &amp; Parosteal osteosarcoma) + 25 Bone MCQs.",
+      "b3": "<strong>SOE Deliverable (30m):</strong> Study One-Pager 3 &amp; run a 10m SOE recording on <strong>Enchondroma vs. Grade 1 Chondrosarcoma / Atypical Cartilaginous Tumor</strong> emphasizing radiology and host bone entrapment."
+    }
+  ]
+}

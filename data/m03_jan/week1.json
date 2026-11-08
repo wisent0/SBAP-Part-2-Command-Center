@@ -1,0 +1,75 @@
+{
+  "title": "Month 3, Week 1 (Jan 3 – Jan 9, 2027): Reactive Nodes, Small & Aggressive B-Cell, Hodgkin, Flow Cytometry & Blistering Skin (DIF)",
+  "days": [
+    {
+      "id": "m03-w1-d1",
+      "date": "Sun, Jan 3",
+      "tag": "Heme I: Reactive",
+      "badge": "b-mol",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Spaced recall of Month 2 Translocation Sarcomas &amp; Salivary Gland fusions.<br><strong>Reading (75m):</strong> SCFHS Curriculum Hematopathology Objectives — Normal Lymph Node Compartments &amp; Reactive Patterns: Follicular Hyperplasia vs. Follicular Lymphoma, Kikuchi-Fujimoto (crescentic MPO+/CD68+ histiocytes, CD123+ plasmacytoid DCs, NO neutrophils) vs. Cat-Scratch (stellate necrotizing microabscesses with neutrophils, Warthin-Starry+), Kimura vs. ALHE, Toxoplasma (Piringer-Kuchinka triad), Castleman (Hyaline-vascular vs. HHV8+ Multicentric), &amp; Rosai-Dorfman (S100+/OCT2+/Cyclin D1+/CD1a- emperipolesis).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (Kikuchi lymphadenitis, Cat-scratch disease, Hyaline-vascular Castleman, Rosai-Dorfman emperipolesis, Toxoplasma lymphadenitis).<br><strong>QBank (30m):</strong> 15 Reactive Lymph Node &amp; Histiocytosis MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log 4-Domain SOE entry on <strong>Kikuchi-Fujimoto Necrotizing Lymphadenitis vs. Large Cell Lymphoma &amp; SLE</strong>."
+    },
+    {
+      "id": "m03-w1-d2",
+      "date": "Mon, Jan 4",
+      "tag": "Heme I: Small B-Cell",
+      "badge": "b-mol",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Blank-sheet recall of Follicular Hyperplasia vs. Follicular Lymphoma.<br><strong>Reading (75m):</strong> <em>WHO Hematolymphoid 5th Ed.</em> — Small B-Cell Neoplasms: CLL/SLL (CD5+, CD23+, LEF1+, CD200+, proliferation centers), Follicular Lymphoma (cFL vs. FLBL; t(14;18) <em>IGH::BCL2</em>, CD10+, BCL6+, BCL2+, Pediatric-type &amp; Duodenal-type FL), Mantle Cell Lymphoma (t(11;14) <em>IGH::CCND1</em>, CD5+, Cyclin D1+, SOX11+, CD23-), Marginal Zone/MALT (t(11;18) <em>BIRC3::MALT1</em>), LPL (<em>MYD88</em> L265P), &amp; Hairy Cell Leukemia (<em>BRAF</em> V600E, CD11c+, CD25+, CD103+, CD123+, Annexin A1+).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (CLL/SLL, Follicular lymphoma, Mantle cell lymphoma pink histiocytes, Gastric MALT lymphoepithelial lesions, Hairy cell leukemia fried-egg BM).<br><strong>QBank (20m):</strong> 15 Small B-Cell &amp; Flow Cytometry MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Study One-Pager 1 (Small B-Cell Lymphoma IHC, Flow Cytometry &amp; Molecular Matrix)."
+    },
+    {
+      "id": "m03-w1-d3",
+      "date": "Tue, Jan 5",
+      "tag": "Flow & LN FNA",
+      "badge": "b-cns",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Draw the Small B-Cell Lymphoma CD5 / CD10 / CD23 / Cyclin D1 / SOX11 / LEF1 / Annexin A1 / MYD88 table from memory.",
+      "b2": "<strong>Slide &amp; Flow Sprint (60m):</strong> 6 Lymph Node Spot Slides (3m/case) + 5 Flow Cytometry Scattergram &amp; Lymph Node FNA Cases (<em>Sydney System</em> Cat I–V; kappa/lambda light-chain restriction, CD5+ &amp; CD10+ gating @ 6m/case).<br><strong>QBank (45m):</strong> 20 Flow Cytometry &amp; Lymph Node Cyto MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log <strong>Fresh Lymph Node Excision &amp; FNA Specimen Triage Protocol</strong> (RPMI for Flow &amp; Karyotyping, touch preps, snap-frozen, 10% NBF)."
+    },
+    {
+      "id": "m03-w1-d4",
+      "date": "Wed, Jan 6",
+      "tag": "Dermpath I: Blisters",
+      "badge": "b-qc",
+      "time": "2.0h",
+      "b1": "<strong>Secondary System — Vesiculobullous Dermatoses &amp; Direct Immunofluorescence (DIF) (90m):</strong> Biopsy rule (H&amp;E from fresh blister edge; <strong>DIF from perilesional skin in Michel's medium!</strong>); Intraepidermal: Pemphigus Vulgaris (suprabasal tombstones, Desmoglein 3/1, intercellular IgG/C3 fishnet) vs. Pemphigus Foliaceus (subcorneal, Desmoglein 1), Hailey-Hailey (<em>ATP2C1</em>) vs. Darier (<em>ATP2A2</em>); Subepidermal: Bullous Pemphigoid (eosinophils, BP180/230, linear IgG/C3 at roof of salt-split skin) vs. EBA (Type VII collagen, floor of salt-split skin), Dermatitis Herpetiformis (neutrophilic papillary microabscesses, granular IgA), Linear IgA, &amp; PCT (cell-poor, caterpillar bodies).",
+      "b2": "<strong>QBank &amp; Slides (30m):</strong> 15 Blistering Skin &amp; DIF MCQs + 5 Spot Slides (Pemphigus vulgaris, Bullous pemphigoid, Dermatitis herpetiformis, Hailey-Hailey, Darier).",
+      "b3": "<strong>SOE Deliverable:</strong> Study One-Pager 4 (Vesiculobullous Diseases, Target Antigens, Salt-Split Skin &amp; DIF Patterns)."
+    },
+    {
+      "id": "m03-w1-d5",
+      "date": "Thu, Jan 7",
+      "tag": "Recalls 15-23",
+      "badge": "b-mol",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Recall Pemphigus vs. Pemphigoid vs. Dermatitis Herpetiformis vs. Linear IgA vs. EBA (Blister level, inflammatory cell, DIF pattern, Salt-split skin side).",
+      "b2": "<strong>QBank Sprint (60m):</strong> 30 Timed MCQs (15 Heme/Dermpath + 15 <strong>2015–2023 Trainee Recalls</strong> on Reactive Nodes, Small B-Cell Lymphomas &amp; Blistering Skin).<br><strong>Deep Review (45m):</strong> Dissect recall distractors.",
+      "b3": "<strong>SOE Deliverable:</strong> Add missed Heme &amp; Blistering Skin recall questions into your 4-Domain SOE Log."
+    },
+    {
+      "id": "m03-w1-d6",
+      "date": "Fri, Jan 8",
+      "tag": "Protected Rest",
+      "badge": "b-rest",
+      "time": "0–1h",
+      "b1": "<strong>Protected Weekly Rest Day.</strong>",
+      "b2": "<em>(Optional)</em> 30m review of Week 1 Heme &amp; Dermpath SOE entries.",
+      "b3": "Click <strong>Push</strong> to sync Week 1 of Month 3 to GitHub."
+    },
+    {
+      "id": "m03-w1-d7",
+      "date": "Sat, Jan 9",
+      "tag": "Heme Deep Dive I",
+      "badge": "b-mol",
+      "time": "4.5h",
+      "b1": "<strong>Primary System Deep Dive — Aggressive B-Cell &amp; Hodgkin Lymphomas (2.5h):</strong> <em>WHO 5th Ed.</em> — DLBCL, NOS (Hans Algorithm: CD10, BCL6, MUM1 -> GCB vs. Non-GCB; Double-Expressor MYC &ge;40% + BCL2 &ge;50%), High-Grade B-Cell Lymphoma with <em>MYC</em> and <em>BCL2</em> Rearrangements ('Double-Hit'), Burkitt Lymphoma ('starry-sky', CD10+, BCL6+, BCL2-, Ki-67 ~100%, t(8;14) <em>IGH::MYC</em>), Primary Mediastinal LBCL (CD30+, CD23+, MAL+); Classic Hodgkin (NS, MC, LR, LD; CD30+, CD15+, dim PAX5+, MUM1+, CD45-, CD20-, OCT2-/BOB.1-) vs. NLPHL (LP 'popcorn' cells: CD20+, CD45+, OCT2+, BOB.1+, BCL6+, PD1+ T-cell rosettes, CD30-, CD15-!).",
+      "b2": "<strong>Slides &amp; QBank (90m):</strong> 12 Heme Spot Slides @ 3m/case (DLBCL, Burkitt, Primary mediastinal LBCL, cHL Nodular Sclerosis &amp; Mixed Cellularity, NLPHL) + 25 Aggressive B-Cell &amp; Hodgkin MCQs.",
+      "b3": "<strong>SOE Deliverable (30m):</strong> Master One-Pager 2 &amp; record a 3-min spoken SOE response on <strong>Large B-Cell Lymphoma Workup (Hans + Double-Hit FISH)</strong> and <strong>cHL vs. NLPHL vs. THRLBCL</strong>."
+    }
+  ]
+}

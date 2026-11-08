@@ -1,0 +1,22 @@
+{
+  "lastUpdated": "2026-11-08T08:00:00.000Z",
+  "completedDays": [],
+  "confidence": {
+    "CNS / Neuropathology": { "baseline": 1, "current": 1, "weight": "Surgical Path (50%)" },
+    "Soft Tissue & Bone": { "baseline": 1, "current": 1, "weight": "Surgical Path (50%)" },
+    "Head & Neck": { "baseline": 2, "current": 2, "weight": "Surgical Path (50%)" },
+    "Dermatopathology": { "baseline": 2, "current": 2, "weight": "Surgical Path (50%)" },
+    "Hematopathology": { "baseline": 2, "current": 2, "weight": "Surgical Path (50%)" },
+    "Breast & GYN": { "baseline": 3, "current": 3, "weight": "Surgical Path (50%)" },
+    "GI & Medical Liver": { "baseline": 3, "current": 3, "weight": "Surgical Path (50%)" },
+    "GU & Medical Renal": { "baseline": 3, "current": 3, "weight": "Surgical Path (50%)" },
+    "Endocrine": { "baseline": 3, "current": 3, "weight": "Surgical Path (50%)" },
+    "Cytopathology": { "baseline": 3, "current": 3, "weight": "18% Written + Day 1" },
+    "Quality & Safety": { "baseline": 2, "current": 2, "weight": "12% Written + Day 2 SOE" },
+    "Special Stains & IHC": { "baseline": 3, "current": 3, "weight": "5% Written + Day 2 SOE" },
+    "Molecular, Cytogenetics & EM": { "baseline": 2, "current": 2, "weight": "5% Written + Day 2 SOE" },
+    "General Pathology": { "baseline": 3, "current": 3, "weight": "5% Written + Day 2 SOE" },
+    "Autopsy & Forensic (BIP)": { "baseline": 2, "current": 2, "weight": "5% Written + Day 2 SOE" }
+  },
+  "soeLogs": []
+}

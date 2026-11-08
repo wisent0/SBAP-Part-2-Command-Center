@@ -1,0 +1,75 @@
+{
+  "title": "Month 3, Week 2 (Jan 10 – Jan 16, 2027): Mature T/NK-Cell, Thymus/Spleen/BM, Inflammatory Skin & Melanoma/SLN Staging",
+  "days": [
+    {
+      "id": "m03-w2-d1",
+      "date": "Sun, Jan 10",
+      "tag": "Heme II: T/NK-Cell",
+      "badge": "b-mol",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Write out the Reed-Sternberg (cHL) vs. LP 'Popcorn' Cell (NLPHL) vs. Anaplastic Large Cell (ALCL) IHC comparison table.<br><strong>Reading (75m):</strong> <em>WHO 5th Ed.</em> — Mature T/NK-Cell Neoplasms: ALCL (<em>ALK</em>+ t(2;5) <em>NPM1::ALK</em> hallmark kidney cells, sinusoidal growth, CD30+, EMA+ vs. <em>ALK</em>- [<em>DUSP22</em> favorable vs. <em>TP63</em> dismal] vs. Breast Implant-Associated ALCL), Nodal TFH Lymphoma / AITL (arborizing HEVs, CD21+ FDC meshworks, EBV+ B-blasts, &ge;2 TFH markers: PD1, ICOS, CXCL13, BCL6, CD10; <em>RHOA/TET2/DNMT3A/IDH2</em>), Extranodal NK/T-Cell (angiocentric necrosis, CD3&epsilon;+, CD56+, EBER+), EATL (Celiac, CD103+) vs. MEITL (CD8+, CD56+), &amp; Hepatosplenic T-Cell (&gamma;&delta; TCR+, sinusoidal).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (ALCL hallmark cells, AITL, Extranodal NK/T-cell, EATL, ATLL flower cells HTLV-1).<br><strong>QBank (30m):</strong> 15 T/NK-Cell Lymphoma MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log the critical SOE trap: <strong>Sinusoidal ALCL Mimicking Metastatic Carcinoma/Melanoma</strong> (CD30+, ALK+/-, EMA+, CD43+, often CD3/CD5/CD7 negative!)."
+    },
+    {
+      "id": "m03-w2-d2",
+      "date": "Mon, Jan 11",
+      "tag": "Thymus, Spleen & BM",
+      "badge": "b-mol",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Recall AITL diagnostic triad + TFH markers + <em>IDH2/RHOA/TET2</em> mutations.<br><strong>Reading (75m):</strong> SCFHS Curriculum Solid Lymphoreticular Organs — <strong>Thymus:</strong> Thymoma (Types A, AB, B1, B2, B3; p63/p40/CK+ epithelial meshwork + TdT+/CD1a+ immature thymocytes) vs. Thymic Carcinoma (CD5+, CD117+, GLUT1+, lacks TdT+ T-cells) vs. T-LBL (destroys CK+ epithelial meshwork!); <strong>Spleen:</strong> White pulp vs. Red pulp (Hairy cell, Littoral cell angioma CD31+/CD68+/CD21+); <strong>Bone Marrow:</strong> Multiple Myeloma (CD138+, CD38+, CD56+, CD19-, CD45-), MPNs (CML, PV, ET, PMF <em>JAK2/CALR/MPL</em>), &amp; Systemic Mastocytosis (<em>KIT</em> D816V, CD117+, Tryptase+, CD25+).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (Thymoma B1 vs. T-LBL, Thymic carcinoma, Multiple myeloma, Primary myelofibrosis, Systemic mastocytosis).<br><strong>QBank (20m):</strong> 15 Thymus, Spleen &amp; Bone Marrow MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log 4-Domain SOE entry on <strong>Anterior Mediastinal Core Biopsy: Thymoma B1 vs. T-Lymphoblastic Lymphoma</strong> (Pan-CK/p40 epithelial network intact in Thymoma B1 vs. absent in T-LBL!)."
+    },
+    {
+      "id": "m03-w2-d3",
+      "date": "Tue, Jan 12",
+      "tag": "Slides + Cyto",
+      "badge": "b-cns",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Write out the Anterior Mediastinal Mass differential (Thymoma, Thymic Carcinoma, T-LBL, Primary Mediastinal LBCL, cHL Nodular Sclerosis, Germ Cell Tumor) with key IHC.",
+      "b2": "<strong>Slide Sprint (60m):</strong> 10 Timed Slides: 6 Aggressive Heme/Thymus/Spleen slides (3m/case) + 4 Mediastinal &amp; Lymph Node FNA/Cell Block slides (6m/case).<br><strong>QBank (45m):</strong> 20 Heme &amp; Mediastinal Cytopathology MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Run the <strong>20m SOE Timer</strong> on an Excisional Cervical Lymph Node Biopsy (4-Domain Lymph Node Workup Script from One-Pager 2)."
+    },
+    {
+      "id": "m03-w2-d4",
+      "date": "Wed, Jan 13",
+      "tag": "Dermpath II: Inflammatory",
+      "badge": "b-qc",
+      "time": "2.0h",
+      "b1": "<strong>Secondary System — Inflammatory Dermatopathology Reaction Patterns (90m):</strong> (1) <strong>Psoriasiform:</strong> Psoriasis (clubbed rete ridges, suprapapillary thinning, Munro microabscesses, hypogranulosis — rule out tinea with PAS!); (2) <strong>Spongiotic:</strong> Eczema, eosinophilic spongiosis; (3) <strong>Interface:</strong> Lichen Planus (band-like infiltrate, saw-tooth rete, wedge hypergranulosis, Civatte bodies) vs. Lupus Erythematosus (superficial &amp; deep perivascular/periadnexal infiltrate, follicular plugging, PAS+ thickened BM, Alcian blue+ dermal mucin!); (4) <strong>Granulomatous:</strong> Granuloma Annulare (necrobiotic collagen + mucin) vs. Necrobiosis Lipoidica (tiered necrobiosis + plasma cells, NO mucin); (5) <strong>Panniculitis:</strong> Septal (<strong>Erythema Nodosum</strong> — Miescher radial granulomas) vs. Lobular with vasculitis (<strong>Erythema Induratum</strong>).",
+      "b2": "<strong>QBank &amp; Slides (30m):</strong> 15 Inflammatory Skin MCQs + 5 Spot Slides (Psoriasis, Lichen planus, Discoid lupus, Granuloma annulare vs. Necrobiosis lipoidica, Erythema nodosum).",
+      "b3": "<strong>SOE Deliverable:</strong> Study One-Pager 4 (Inflammatory Dermatopathology Reaction Patterns &amp; Special Stains)."
+    },
+    {
+      "id": "m03-w2-d5",
+      "date": "Thu, Jan 14",
+      "tag": "Recalls 15-23",
+      "badge": "b-mol",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Compare Granuloma Annulare vs. Necrobiosis Lipoidica vs. Rheumatoid Nodule vs. Distal Epithelioid Sarcoma (mucin vs. fibrin, plasma cells, depth, INI1 IHC).",
+      "b2": "<strong>QBank Sprint (60m):</strong> 30 Timed MCQs (15 Aggressive Heme/Inflammatory Skin + 15 <strong>2015–2023 Trainee Recalls</strong> on Hodgkin, T-Cell Lymphomas, Thymoma &amp; Inflammatory Dermpath).<br><strong>Deep Review (45m):</strong> Audit recall distractors.",
+      "b3": "<strong>SOE Deliverable:</strong> Add missed Heme &amp; Inflammatory Skin recall questions to your 4-Domain SOE Log."
+    },
+    {
+      "id": "m03-w2-d6",
+      "date": "Fri, Jan 15",
+      "tag": "Protected Rest",
+      "badge": "b-rest",
+      "time": "0–1h",
+      "b1": "<strong>Protected Weekly Rest Day.</strong>",
+      "b2": "<em>(Optional)</em> 30m review of Week 2 SOE Log entries.",
+      "b3": "Click <strong>Push</strong> to sync Week 2 of Month 3 to GitHub."
+    },
+    {
+      "id": "m03-w2-d7",
+      "date": "Sat, Jan 16",
+      "tag": "Dermpath Deep Dive I",
+      "badge": "b-qc",
+      "time": "4.5h",
+      "b1": "<strong>Deep Dive — Melanocytic Neoplasms, Cutaneous Melanoma Staging &amp; Sentinel Lymph Node Protocol (2.5h):</strong> <em>WHO Skin 5th Ed.</em> — Benign Nevi (Maturation/dispersion, Halo, Blue <em>GNAQ/11</em>, Deep Penetrating <em>CTNNB1</em>, Spitz Nevus [Kamino bodies, <em>HRAS</em> or kinase fusions, p16+, PRAME-] vs. Melanoma [PRAME+, p16 loss]); Desmoplastic Melanoma (<em>NF1</em>, S100+, SOX10+, <strong>HMB45/Melan-A NEGATIVE!</strong>, neurotropism); <strong>AJCC 8th Staging:</strong> Breslow thickness (granular layer/ulcer base to deepest invasive cell, 0.1 mm), Ulceration, Microsatellitosis (pN1c); &amp; <strong>Sentinel Lymph Node (SLN):</strong> Capsular Nevus Rest (strictly capsular/trabecular, S100/SOX10/Melan-A/p16+, <strong>HMB45-, PRAME-, Ki-67 &lt;1%</strong>) vs. Subcapsular/Parenchymal Metastatic Melanoma (<strong>HMB45+, PRAME+, Ki-67 high</strong>).",
+      "b2": "<strong>Slides &amp; QBank (90m):</strong> 12 Melanocytic Spot Slides @ 3m/case (Spitz nevus, Blue nevus, Superficial spreading &amp; Nodular melanoma, Desmoplastic melanoma, SLN capsular nevus vs. metastasis) + 25 Melanocytic MCQs.",
+      "b3": "<strong>SOE Deliverable (30m):</strong> Study One-Pager 3 &amp; record a 3-min spoken SOE response on <strong>SLN Capsular Nevus vs. Metastatic Melanoma</strong> and <strong>Desmoplastic Melanoma vs. Scar</strong>."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Month 1, Week 3 (Nov 22 – Nov 28, 2026): Sellar/Nerve Sheath, Non-Neoplastic CNS, Muscle/Nerve Biopsy & EM",
+  "days": [
+    {
+      "id": "m01-w3-d1",
+      "date": "Sun, Nov 22",
+      "tag": "CNS Sellar/Nerve",
+      "badge": "b-cns",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Write out Meningioma Grade 2 (including 3 of 5 minor criteria) and Grade 3 criteria.<br><strong>Reading (75m):</strong> <em>WHO CNS5</em> — Nerve Sheath (Schwannoma, Neurofibroma, Perineurioma EMA/CLDN1/GLUT1+, MPNST H3K27me3 loss), Sellar Region (Adamantinomatous [<em>CTNNB1</em>/nuclear β-catenin] vs. Papillary [<em>BRAF</em> V600E] Craniopharyngioma, PitNET transcription factors <em>PIT1, TPIT, SF1</em>, Pituicytoma/Spindle cell oncocytoma/Granular cell tumor <em>TTF1</em>+), &amp; Hemangioblastoma (<em>VHL</em>).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 CNS slides @ 3m/case (Schwannoma Antoni A/B &amp; Verocay bodies, Craniopharyngioma subtypes, PitNET, Hemangioblastoma).<br><strong>QBank (30m):</strong> 15 CNS Sellar/Nerve Sheath MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log 4-Domain SOE entry on Cerebellar Hemangioblastoma (Inhibin-A+, S100+, D2-40+, PAX8-, EMA-, CD10-) vs. Metastatic Clear Cell RCC (PAX8+, EMA+, CD10+, CAIX+)."
+    },
+    {
+      "id": "m01-w3-d2",
+      "date": "Mon, Nov 23",
+      "tag": "Non-Neoplastic CNS",
+      "badge": "b-cns",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Recall PitNET transcription factors (PIT1: GH/PRL/TSH; TPIT: ACTH; SF1: Gonadotroph) and TTF1+ posterior pituitary tumors.<br><strong>Reading (75m):</strong> <em>Rosai</em> &amp; <em>WHO CNS5</em> — Primary CNS DLBCL (<em>MYD88</em> L265P), CNS Germ Cell Tumors, Chordoma (<em>Brachyury</em>+) vs. Chondrosarcoma, &amp; Non-Neoplastic CNS (HSV, CMV, PML/JC virus, Toxoplasmosis, Cryptococcus, CJD/Prion, Multiple Sclerosis/LFB, Alzheimer's, Parkinson's, ALS).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (Chordoma physaliferous cells, PML bizarre astrocytes/oligodendroglial inclusions, MS demyelinating plaque with macrophages, Cryptococcus, Toxoplasma).<br><strong>QBank (20m):</strong> 15 Non-Neoplastic CNS MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log Non-Neoplastic CNS Inclusion Bodies &amp; Special Stains (Negri, Cowdry A, PML, Marinesco, Bunina, Hirano, Lewy, Pick, Luxol Fast Blue + PAS)."
+    },
+    {
+      "id": "m01-w3-d3",
+      "date": "Tue, Nov 24",
+      "tag": "Full SOE Drill",
+      "badge": "b-cns",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Flash-recall Chordoma (Brachyury+, CK+, EMA+, S100+) vs. Chondrosarcoma (Brachyury-, CK/EMA-) vs. Chordoid Meningioma (EMA+, SSTR2A+, Brachyury-).",
+      "b2": "<strong>Slide Sprint (60m):</strong> 10 Timed Slides: 6 CNS Neoplastic/Infectious slides (3m/case) + 4 Thyroid FNA slides (Medullary Thyroid Carcinoma amyloid/calcitonin, Anaplastic, Parathyroid @ 6m/case).<br><strong>QBank (45m):</strong> 20 Timed MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Run the <strong>20m SOE Timer</strong> on an intraoperative ring-enhancing brain biopsy (Primary CNS DLBCL vs. GBM vs. Abscess/Toxoplasma — why you halt resection in lymphoma!)."
+    },
+    {
+      "id": "m01-w3-d4",
+      "date": "Wed, Nov 25",
+      "tag": "Muscle & EM 5%",
+      "badge": "b-mol",
+      "time": "2.0h",
+      "b1": "<strong>Secondary System — Nerve &amp; Muscle Biopsy + EM (90m):</strong> SCFHS Curriculum Neuropathology &amp; EM Objectives — Fresh snap-frozen muscle triage (isopentane cooled in liquid nitrogen), ATPase pH 9.4 vs. pH 4.3/4.6 fiber typing, NADH-TR, SDH, COX, Modified Gomori Trichrome, PAS, Oil Red O; Neurogenic atrophy vs. Myopathy; Dermatomyositis vs. Polymyositis vs. IBM; &amp; Diagnostic EM.",
+      "b2": "<strong>QBank &amp; Images (30m):</strong> 15 Muscle/Nerve &amp; EM MCQs + 6 muscle histochemistry/EM images (perifascicular atrophy, ragged red fibers, rimmed vacuoles, nemaline rods, central cores).",
+      "b3": "<strong>SOE Deliverable:</strong> Master One-Pager 3 (Skeletal Muscle Biopsy Enzyme Histochemistry, Inflammatory Myopathies &amp; Diagnostic EM)."
+    },
+    {
+      "id": "m01-w3-d5",
+      "date": "Thu, Nov 26",
+      "tag": "Recalls 15-23",
+      "badge": "b-cns",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Write out the Muscle Biopsy histochemical stain panel and Dermatomyositis vs. Polymyositis vs. IBM discriminators from memory.",
+      "b2": "<strong>QBank Sprint (60m):</strong> 30 Timed MCQs (15 CNS/Muscle/EM + 15 <strong>2015–2023 Trainee Recalls</strong> on Neuropathology &amp; EM).<br><strong>Deep Review (45m):</strong> Audit all missed recall explanations.",
+      "b3": "<strong>SOE Deliverable:</strong> Log all CNS frozen section and muscle biopsy recall traps."
+    },
+    {
+      "id": "m01-w3-d6",
+      "date": "Fri, Nov 27",
+      "tag": "Protected Rest",
+      "badge": "b-rest",
+      "time": "0–1h",
+      "b1": "<strong>Protected Weekly Rest Day.</strong>",
+      "b2": "<em>(Optional)</em> 30m review of Week 3 SOE Log entries.",
+      "b3": "Click <strong>Push</strong> to sync Week 3 progress to GitHub."
+    },
+    {
+      "id": "m01-w3-d7",
+      "date": "Sat, Nov 28",
+      "tag": "CNS Mastery Mock",
+      "badge": "b-cns",
+      "time": "4.5h",
+      "b1": "<strong>Neuropathology Consolidation &amp; Lester Frozen Section Review (2.5h):</strong> Complete review of One-Pagers 1–3 + <em>Susan Lester</em> Neuropathology Intraoperative Consultation (crush prep vs. cryostat artifacts, meningioma whorls, oligodendroglioma halo loss on frozen, lymphoma discohesion).",
+      "b2": "<strong>CNS Mastery Mini-Mock (90m):</strong> 20 Timed CNS Virtual Spot Slides (60m @ 3m/case) + 30 Timed CNS &amp; Molecular/EM MCQs (30m).",
+      "b3": "<strong>SOE Deliverable (30m):</strong> Update your CNS Confidence Slider in Tab 4 (Target: 1/5 -> 3/5) and log any remaining weak entities."
+    }
+  ]
+}

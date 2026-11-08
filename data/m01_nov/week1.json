@@ -1,0 +1,75 @@
+{
+  "title": "Month 1, Week 1 (Nov 8 – Nov 14, 2026): General Path (5%), Molecular I (5%) & CNS Adult Gliomas",
+  "days": [
+    {
+      "id": "m01-w1-d1",
+      "date": "Sun, Nov 8",
+      "tag": "Gen Path 5%",
+      "badge": "b-mol",
+      "time": "2.5h",
+      "b1": "<strong>Setup (30m):</strong> Initialize GitHub Repo &amp; 4-Domain SOE Log.<br><strong>Reading (60m):</strong> <em>Robbins</em> 10th ed. Ch. 2 &amp; 3 High-Yield Tables — Reversible vs. Irreversible Injury (EM thresholds), Apoptosis vs. Necroptosis (RIPK1/3/MLKL) vs. Pyroptosis vs. Ferroptosis (GPX4), &amp; Granulomatous Inflammation.",
+      "b2": "<strong>Spot Slides (20m):</strong> 5 slides @ 3m/case (coagulative/caseous/fibrinoid necrosis, sarcoid vs. necrotizing granuloma, reactive gliosis).<br><strong>QBank (30m):</strong> 20 MCQs on Cell Death &amp; Inflammatory Mediators.",
+      "b3": "<strong>SOE Deliverable (10m):</strong> Log 4-Domain SOE entry for Necrotizing vs. Non-Necrotizing Granulomas (GMS/ZN/Fite stains + clinical correlation)."
+    },
+    {
+      "id": "m01-w1-d2",
+      "date": "Mon, Nov 9",
+      "tag": "Gen Path 5%",
+      "badge": "b-mol",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Blank-sheet recall of Cell Death pathways &amp; Leukocyte Adhesion Deficiencies (LAD I/II/III).<br><strong>Reading (75m):</strong> <em>Robbins</em> Ch. 4 &amp; 6 — Tissue Repair/Fibrosis, Hemodynamics/Shock, Amyloidosis subtypes (AL, AA, ATTR, Aβ2M, ACal), &amp; Paraneoplastic Syndromes.",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (Renal/Hepatic/Cardiac Amyloidosis, organizing thrombus, keloid vs. desmoid).<br><strong>QBank (25m):</strong> 15 MCQs on Amyloidosis, Hemodynamics &amp; Paraneoplastic syndromes.",
+      "b3": "<strong>SOE Deliverable (10m):</strong> Log 4-Domain SOE entry on Amyloidosis subtyping (Congo red apple-green birefringence, laser microdissection-mass spec, EM 7.5–10 nm non-branching fibrils)."
+    },
+    {
+      "id": "m01-w1-d3",
+      "date": "Tue, Nov 10",
+      "tag": "Slides + Cyto",
+      "badge": "b-cns",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Flash-recall Amyloidosis chemical subtypes, precursor proteins, and EM fibril diameter.",
+      "b2": "<strong>Slide Sprint (60m):</strong> 10 Timed Virtual Slides: 5 CNS basic lesions (3m/case) + 3 Thyroid FNA smears (<em>Bethesda</em> Cat I–III @ 6m/case) + 2 Heme reactive nodes.<br><strong>QBank (45m):</strong> 25 Timed General Path MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log <em>Bethesda</em> Thyroid adequacy criteria (≥6 groups of ≥10 well-visualized follicular cells; exceptions: solid nodules with atypia, thyroiditis, abundant colloid) &amp; ROM."
+    },
+    {
+      "id": "m01-w1-d4",
+      "date": "Wed, Nov 11",
+      "tag": "Molecular 5%",
+      "badge": "b-mol",
+      "time": "2.0h",
+      "b1": "<strong>Secondary System — Molecular I (90m):</strong> SCFHS Curriculum Molecular Table — FFPE block selection &amp; tumor macrodissection (% neoplastic cellularity), nucleic acid extraction, PCR, RT-PCR, qPCR, Allele-specific PCR, Sanger vs. NGS, &amp; STR identity/chimerism.",
+      "b2": "<strong>QBank &amp; EM (30m):</strong> 15 Molecular/NGS MCQs + 3 EM ultrastructural images (neuroendocrine dense-core granules, Birbeck tennis-racket granules, premelanosomes).",
+      "b3": "<strong>SOE Deliverable:</strong> Review One-Pager 3 (Assay Limit of Detection: Sanger 15–20% VAF vs. NGS 2–5% VAF vs. ddPCR/Allele-specific &lt;0.1–1% VAF)."
+    },
+    {
+      "id": "m01-w1-d5",
+      "date": "Thu, Nov 12",
+      "tag": "Recalls 15-23",
+      "badge": "b-mol",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Write out VAF sensitivity limits and clinical indications of Sanger, NGS, RT-PCR, and STR identity testing.",
+      "b2": "<strong>QBank Sprint (60m):</strong> 30 Timed MCQs (15 General Path + 15 <strong>2015–2023 Trainee Recalls</strong> tagged General Path &amp; Molecular).<br><strong>Deep Review (45m):</strong> Dissect every recall distractor.",
+      "b3": "<strong>SOE Deliverable:</strong> Log missed 2015–2023 recall questions into your 4-Domain SOE Log."
+    },
+    {
+      "id": "m01-w1-d6",
+      "date": "Fri, Nov 13",
+      "tag": "Protected Rest",
+      "badge": "b-rest",
+      "time": "0–1h",
+      "b1": "<strong>Protected Weekly Rest Day.</strong>",
+      "b2": "<em>(Optional)</em> 30m light coffee review of Week 1 SOE Log entries.",
+      "b3": "Click <strong>Push</strong> to sync Week 1 progress to GitHub."
+    },
+    {
+      "id": "m01-w1-d7",
+      "date": "Sat, Nov 14",
+      "tag": "CNS Deep Dive I",
+      "badge": "b-cns",
+      "time": "4.5h",
+      "b1": "<strong>Primary System Deep Dive — Neuropathology I (2.5h):</strong> <em>WHO CNS 5th Ed.</em> &amp; <em>Rosai</em> — Adult-Type Diffuse Gliomas (Astrocytoma <em>IDH</em>-mutant Gr 2–4, Oligodendroglioma <em>IDH</em>-mutant &amp; 1p/19q-codeleted Gr 2–3, Glioblastoma <em>IDH</em>-wildtype Gr 4) + CNS Intraoperative Smear vs. Frozen Section artifacts.",
+      "b2": "<strong>Slides &amp; QBank (90m):</strong> 12 CNS Virtual Spot Slides @ 3m/case (diffuse astrocytoma, gemistocytic astrocytoma, oligodendroglioma, GBM, gliosarcoma, reactive gliosis) + 25 CNS Glioma MCQs.",
+      "b3": "<strong>SOE Deliverable (30m):</strong> Study One-Pager 1 (Adult Diffuse Gliomas) &amp; record a 3-min spoken SOE response using the 4-Domain Glioma Script."
+    }
+  ]
+}

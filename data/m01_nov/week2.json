@@ -1,0 +1,75 @@
+{
+  "title": "Month 1, Week 2 (Nov 15 – Nov 21, 2026): Pediatric/Circumscribed Gliomas, Ependymomas, Cytogenetics & Embryonal/Meningiomas",
+  "days": [
+    {
+      "id": "m01-w2-d1",
+      "date": "Sun, Nov 15",
+      "tag": "CNS Gliomas II",
+      "badge": "b-cns",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Draw the WHO CNS5 Adult Diffuse Glioma IHC/Molecular algorithm from memory.<br><strong>Reading (75m):</strong> <em>WHO CNS5</em> — Pediatric-Type Diffuse Gliomas (Diffuse Midline Glioma <em>H3</em> K27-altered, Diffuse Hemispheric Glioma <em>H3</em> G34-mutant [OLIG2-!]) &amp; Circumscribed Astrocytic Gliomas (Pilocytic Astrocytoma <em>KIAA1549::BRAF</em>, PXA <em>BRAF</em> V600E + <em>CDKN2A/B</em>, SEGA <em>TSC1/2</em>).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 CNS slides @ 3m/case (Pilocytic astrocytoma biphasic pattern/Rosenthal fibers, PXA, SEGA, DMG).<br><strong>QBank (30m):</strong> 15 CNS Pediatric/Circumscribed Glioma MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log 4-Domain SOE entry comparing Rosenthal Fibers (Pilocytic, Alexander disease, chronic piloid gliosis) vs. Eosinophilic Granular Bodies (Pilocytic, PXA, Ganglioglioma)."
+    },
+    {
+      "id": "m01-w2-d2",
+      "date": "Mon, Nov 16",
+      "tag": "CNS Ependymal",
+      "badge": "b-cns",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Recall molecular signatures of Pilocytic Astrocytoma, PXA, SEGA, and DMG.<br><strong>Reading (75m):</strong> <em>WHO CNS5</em> — Glioneuronal &amp; Neuronal Tumors (Ganglioglioma, DNET, Central/Extraventricular Neurocytoma, Rosette-forming glioneuronal tumor) &amp; Ependymal Tumors (Supratentorial <em>ZFTA</em> vs. <em>YAP1</em>, Posterior Fossa <em>PFA/PFB</em>, Spinal <em>MYCN</em>, Myxopapillary [Gr 2], Subependymoma [Gr 1]).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 CNS slides @ 3m/case (DNET floating neurons, Ganglioglioma, Ependymoma perivascular pseudorosettes, Myxopapillary ependymoma, Subependymoma).<br><strong>QBank (20m):</strong> 15 CNS MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Study One-Pager 2 (True Rosettes vs. Pseudorosettes &amp; Ependymoma Compartments) and log EMA paranuclear dot-like positivity vs. OLIG2 negativity in Ependymoma."
+    },
+    {
+      "id": "m01-w2-d3",
+      "date": "Tue, Nov 17",
+      "tag": "Slides + Cyto",
+      "badge": "b-cns",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Write out the 5 CNS rosette types (Homer Wright, Flexner-Wintersteiner, True Ependymal, Perivascular Pseudorosette, Pineocytomatous) and their tumors.",
+      "b2": "<strong>Slide Sprint (60m):</strong> 10 Timed Slides: 6 CNS Glioneuronal/Ependymal slides (3m/case) + 4 Thyroid FNA slides (<em>Bethesda</em> Cat IV Follicular/Oncocytic Neoplasm, Cat V, Cat VI PTC @ 6m/case).<br><strong>QBank (45m):</strong> 20 CNS &amp; Thyroid Cyto MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Record a 2-min spoken SOE script on Posterior Fossa pediatric tumor workup (H3K27me3 nuclear loss occurs in BOTH PF-A Ependymoma and H3 K27-altered DMG!)."
+    },
+    {
+      "id": "m01-w2-d4",
+      "date": "Wed, Nov 18",
+      "tag": "Cytogenetics 5%",
+      "badge": "b-mol",
+      "time": "2.0h",
+      "b1": "<strong>Secondary System — Cytogenetics, FISH &amp; Microarrays (90m):</strong> SCFHS Curriculum Molecular Table — Karyotyping, FISH/CISH probe types (centromeric repeat-sequence, whole-chromosome painting, locus-specific dual-fusion vs. break-apart), CGH, SNP microarray (copy-neutral LOH), &amp; MSI/MMR testing.",
+      "b2": "<strong>QBank &amp; Images (30m):</strong> 15 Cytogenetics/FISH MCQs + 5 FISH/EM images (1p/19q codeletion, break-apart vs. fusion signals).",
+      "b3": "<strong>SOE Deliverable:</strong> Review One-Pager 3 (FISH Probe Architecture &amp; MSI/MMR Discordance Troubleshooting)."
+    },
+    {
+      "id": "m01-w2-d5",
+      "date": "Thu, Nov 19",
+      "tag": "Recalls 15-23",
+      "badge": "b-cns",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Blank-sheet recall of Ependymoma anatomic-molecular compartments and FISH break-apart vs. dual-fusion interpretation.",
+      "b2": "<strong>QBank Sprint (60m):</strong> 30 Timed MCQs (15 CNS/Cytogenetics + 15 <strong>2015–2023 Trainee Recalls</strong> on CNS &amp; FISH).<br><strong>Deep Review (45m):</strong> Analyze recall question stems.",
+      "b3": "<strong>SOE Deliverable:</strong> Add missed CNS &amp; FISH recall pitfalls to the 4-Domain SOE Log."
+    },
+    {
+      "id": "m01-w2-d6",
+      "date": "Fri, Nov 20",
+      "tag": "Protected Rest",
+      "badge": "b-rest",
+      "time": "0–1h",
+      "b1": "<strong>Protected Weekly Rest Day.</strong>",
+      "b2": "<em>(Optional)</em> 30m review of Week 2 SOE Log entries.",
+      "b3": "Click <strong>Push</strong> to sync Week 2 progress to GitHub."
+    },
+    {
+      "id": "m01-w2-d7",
+      "date": "Sat, Nov 21",
+      "tag": "CNS Deep Dive II",
+      "badge": "b-cns",
+      "time": "4.5h",
+      "b1": "<strong>Primary System Deep Dive — Neuropathology II (2.5h):</strong> <em>WHO CNS5</em> — Embryonal Tumors (Medulloblastoma 4 molecular groups: <em>WNT</em>, <em>SHH TP53</em>-wt/mut, Non-WNT/Non-SHH; AT/RT <em>SMARCB1</em>/INI1 or <em>SMARCA4</em>/BRG1 loss; ETMR <em>C19MC</em>), Pineal, Choroid Plexus, &amp; Meningiomas (Grades 1–3 morphologic + molecular criteria).",
+      "b2": "<strong>Slides &amp; QBank (90m):</strong> 12 CNS Spot Slides @ 3m/case (Medulloblastoma variants, AT/RT, Choroid plexus papilloma vs. carcinoma, Meningioma variants) + 25 MCQs.",
+      "b3": "<strong>SOE Deliverable (30m):</strong> Master One-Pager 2 (Medulloblastoma 4-Group IHC Table &amp; Meningioma WHO Grade 1–3 Criteria: 4–19 vs. ≥20 mitoses/10 HPF, brain invasion, chordoid/clear cell, <em>TERT</em>p mut, <em>CDKN2A/B</em> hom del)."
+    }
+  ]
+}

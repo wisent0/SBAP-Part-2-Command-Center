@@ -1,0 +1,75 @@
+{
+  "title": "Month 2, Week 1 (Dec 6 – Dec 12, 2026): Fibroblastic/Myofibroblastic, Myxoid, Muscle & Vascular Soft Tissue + Oral/Larynx",
+  "days": [
+    {
+      "id": "m02-w1-d1",
+      "date": "Sun, Dec 6",
+      "tag": "Soft Tissue I",
+      "badge": "b-soft",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Recall Adipocytic tumors (Spindle cell lipoma <em>RB1</em> loss/CD34+ vs. ALT/WDLPS &amp; DDLPS <em>MDM2/CDK4</em> amp vs. Myxoid liposarcoma <em>FUS/EWSR1::DDIT3</em>).<br><strong>Reading (75m):</strong> <em>WHO Soft Tissue &amp; Bone 5th Ed.</em> — Fibroblastic/Myofibroblastic I: Nodular Fasciitis (<em>USP6</em>), Myositis Ossificans (zonal phenomenon, <em>USP6</em>), Elastofibroma, Fibroma of Tendon Sheath, Desmoplastic Fibroblastoma (<em>FOSL1</em>), &amp; Mammary-type Myofibroblastoma (<em>RB1</em> loss).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (Nodular fasciitis tissue-culture myofibroblasts, Myositis ossificans zonation, Elastofibroma elastic globes, Spindle cell lipoma, Myxoid liposarcoma chicken-wire vessels).<br><strong>QBank (30m):</strong> 15 Adipocytic &amp; Reactive Myofibroblastic MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log 4-Domain SOE entry on <strong>Myositis Ossificans vs. Extraskeletal Osteosarcoma</strong> (peripheral lamellar bone maturation in MO vs. reverse zonation in osteosarcoma + X-ray correlation)."
+    },
+    {
+      "id": "m02-w1-d2",
+      "date": "Mon, Dec 7",
+      "tag": "Soft Tissue I",
+      "badge": "b-soft",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Blank-sheet recall of <em>USP6</em>-rearranged lesions (Nodular fasciitis, Myositis ossificans, Cranial fasciitis, Primary ABC, Cellular fibroma of tendon sheath).<br><strong>Reading (75m):</strong> <em>WHO 5th Ed.</em> — Fibroblastic II: Palmar/Plantar Fibromatosis, Desmoid Fibromatosis (<em>CTNNB1</em> or <em>APC</em>, nuclear β-catenin+), Solitary Fibrous Tumor (<em>NAB2::STAT6</em>, STAT6+ &amp; risk model), DFSP (<em>COL1A1::PDGFB</em>, CD34+, honeycomb fat infiltration), &amp; IMT (<em>ALK/ROS1/NTRK3</em>).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (Desmoid sweeping fascicles, SFT staghorn vessels, DFSP storiform/honeycomb fat, IMT, CNS spaced slide).<br><strong>QBank (20m):</strong> 15 Fibroblastic/SFT MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Study One-Pager 1 &amp; log the <strong>WHO SFT Metastatic Risk Model</strong> (Age &ge;55y, Size &lt;5/5–10/10–15/&ge;15 cm, Mitoses &ge;4/10 HPF, Necrosis &ge;10%)."
+    },
+    {
+      "id": "m02-w1-d3",
+      "tag": "Slides + Cyto",
+      "date": "Tue, Dec 8",
+      "badge": "b-soft",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Write out the CD34+ Spindle Cell Tumor differential (SFT, DFSP, Spindle cell lipoma, GIST, Neurofibroma, Epithelioid sarcoma) with confirmatory IHC.",
+      "b2": "<strong>Slide Sprint (60m):</strong> 10 Timed Virtual Slides: 6 Soft Tissue spindle/adipocytic slides (3m/case) + 4 Cervical Pap smears (<em>Bethesda 2015</em>: NILM/infections, ASC-US, LSIL, HSIL @ 6m/case).<br><strong>QBank (45m):</strong> 20 Soft Tissue &amp; Cervical Cytology MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log <em>Bethesda</em> Cervical Cytology adequacy criteria (Liquid-based ThinPrep/SurePath &ge;5,000 squamous cells; Conventional &ge;8,000–12,000 cells; &ge;10 endocervical/metaplastic cells for TZ)."
+    },
+    {
+      "id": "m02-w1-d4",
+      "date": "Wed, Dec 9",
+      "tag": "Head & Neck I",
+      "badge": "b-cns",
+      "time": "2.0h",
+      "b1": "<strong>Secondary System — Oral Cavity, Oropharynx &amp; Larynx (90m):</strong> <em>WHO Head &amp; Neck 5th Ed.</em> — Oral Dysplasia &amp; Proliferative Verrucous Leukoplakia; HPV-Associated vs. HPV-Independent Oropharyngeal SCC (p16 surrogate IHC rule: &ge;70% diffuse strong nuclear &amp; cytoplasmic staining; non-keratinizing basaloid morphology); Laryngeal nodules, HPV 6/11 papillomatosis, &amp; Spindle cell SCC.",
+      "b2": "<strong>QBank &amp; Slides (30m):</strong> 15 Head &amp; Neck SCC/Larynx MCQs + 5 Spot Slides (HPV+ OPSCC, Verrucous carcinoma, Vocal cord nodule, Laryngeal chondrosarcoma, Oral granular cell tumor with pseudoepitheliomatous hyperplasia).",
+      "b3": "<strong>SOE Deliverable:</strong> Log the classic trap: <strong>Granular Cell Tumor (S100+, SOX10+, CD68+, PAS-D+) with florid Pseudoepitheliomatous Hyperplasia (PEH)</strong> on superficial tongue biopsy mimicking well-differentiated SCC!"
+    },
+    {
+      "id": "m02-w1-d5",
+      "date": "Thu, Dec 10",
+      "tag": "Recalls 15-23",
+      "badge": "b-soft",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Recall p16 IHC positivity threshold in Oropharyngeal SCC (&ge;70% nuclear + cytoplasmic) and why p16 alone is NOT used outside the oropharynx (except level II/III unknown primary node).",
+      "b2": "<strong>QBank Sprint (60m):</strong> 30 Timed MCQs (15 Soft Tissue/H&amp;N + 15 <strong>2015–2023 Trainee Recalls</strong> tagged Soft Tissue &amp; Oral/Larynx).<br><strong>Deep Review (45m):</strong> Dissect recall answer explanations.",
+      "b3": "<strong>SOE Deliverable:</strong> Add missed Soft Tissue &amp; Head/Neck recall traps into your 4-Domain SOE Log."
+    },
+    {
+      "id": "m02-w1-d6",
+      "date": "Fri, Dec 11",
+      "tag": "Protected Rest",
+      "badge": "b-rest",
+      "time": "0–1h",
+      "b1": "<strong>Protected Weekly Rest Day.</strong>",
+      "b2": "<em>(Optional)</em> 30m review of Week 1 Soft Tissue &amp; Head/Neck SOE entries.",
+      "b3": "Click <strong>Push</strong> to sync Week 1 of Month 2 to GitHub."
+    },
+    {
+      "id": "m02-w1-d7",
+      "date": "Sat, Dec 12",
+      "tag": "Soft Tissue Deep Dive",
+      "badge": "b-soft",
+      "time": "4.5h",
+      "b1": "<strong>Primary System Deep Dive — Myxoid, Smooth/Skeletal Muscle &amp; Vascular Soft Tissue Tumors (2.5h):</strong> <em>WHO 5th Ed.</em> — Low-Grade Fibromyxoid Sarcoma (Evans tumor; <em>FUS::CREB3L2</em>, MUC4+), Sclerosing Epithelioid Fibrosarcoma (MUC4+), Myxofibrosarcoma (curvilinear vessels), Intramuscular Myxoma (<em>GNAS</em>), Aggressive Angiomyxoma (HMGA2+, ER/PR+), Leiomyosarcoma, Rhabdomyosarcoma (Embryonal, Alveolar <em>PAX3/7::FOXO1</em>, Spindle cell/sclerosing <em>MYOD1</em> L122R), &amp; Vascular Tumors (Kaposi HHV8+, EHE <em>WWTR1::CAMTA1</em>, Angiosarcoma <em>MYC</em> amp).",
+      "b2": "<strong>Slides &amp; QBank (90m):</strong> 12 Soft Tissue Spot Slides @ 3m/case (LGFMS, Myxofibrosarcoma, Embryonal/Alveolar RMS, LMS, Kaposi sarcoma, EHE blister cells, Angiosarcoma, Glomus tumor) + 25 Soft Tissue MCQs.",
+      "b3": "<strong>SOE Deliverable (30m):</strong> Study One-Pager 1 &amp; record a 3-min spoken SOE response on a Deep Thigh Myxoid Mass differential (Myxoid LPS vs. LGFMS vs. Myxofibrosarcoma vs. Intramuscular myxoma)."
+    }
+  ]
+}

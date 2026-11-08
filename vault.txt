@@ -1,0 +1,20 @@
+sbap-part2-vault/
+├── index.html                  <-- [File 1] Lightweight App Shell (Below)
+├── css/
+│   └── style.css               <-- [File 2] Dark Clinical UI & Print Styles
+├── js/
+│   ├── storage.js              <-- [File 3] Progress Save Engine (Local + GitHub Sync + Backup)
+│   └── app.js                  <-- [File 4] Dynamic Loader (fetches 1 week or 1 One-Pager at a time)
+└── data/
+    ├── progress.json           <-- [File 5] Your Saved Checkboxes, Confidence & SOE Logs
+    ├── m01_nov/                <-- Month 1 Folder (Nov 2026)
+    │   ├── week1.json          <-- Only 7 Days (Nov 8 – Nov 14)
+    │   ├── week2.json          <-- Only 7 Days (Nov 15 – Nov 21)
+    │   ├── week3.json          <-- Only 7 Days (Nov 22 – Nov 28)
+    │   ├── week4.json          <-- Only 7 Days (Nov 29 – Dec 5)
+    │   ├── op1_gliomas.html    <-- Clean HTML One-Pager 1
+    │   ├── op2_rosettes.html   <-- Clean HTML One-Pager 2
+    │   ├── op3_molecular.html  <-- Clean HTML One-Pager 3
+    │   └── op4_quality.html    <-- Clean HTML One-Pager 4
+    ├── m02_dec/                <-- Month 2 Folder (Dec 2026)
+    └── ... (m03_jan to m14_jan)

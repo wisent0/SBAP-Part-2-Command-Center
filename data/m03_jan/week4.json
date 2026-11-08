@@ -1,0 +1,75 @@
+{
+  "title": "Month 3, Week 4 (Jan 24 – Jan 30, 2027): Cutaneous Mesenchymal, PTLD/IgG4/Clonality Pitfalls & CHECKPOINT 1 EXAM",
+  "days": [
+    {
+      "id": "m03-w4-d1",
+      "date": "Sun, Jan 24",
+      "tag": "Cutaneous Mesenchymal",
+      "badge": "b-qc",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Spaced recall of Month 2 Soft Tissue Spindle Cell tumors.<br><strong>Reading — Cutaneous Mesenchymal &amp; Vascular Lesions (75m):</strong> <em>WHO Skin 5th Ed.</em> — Dermatofibroma (epidermal hyperplasia with dirty basal hyperpigmentation, peripheral collagen trapping, Factor XIIIa+, CD34-) vs. DFSP (atrophic epidermis, grenz zone, honeycomb fat infiltration, CD34+, Factor XIIIa-, <em>COL1A1::PDGFB</em>); Atypical Fibroxanthoma (AFX) vs. Pleomorphic Dermal Sarcoma (PDS) (diagnosis of exclusion: negative for Pan-CK/p40, SOX10/S100, Desmin, ERG/CD31; <strong>PDS has subcutis invasion, necrosis, LVI, or PNI!</strong>); Bacillary Angiomatosis (<em>Bartonella</em>, neutrophils + Warthin-Starry+ bacterial clumps) vs. Kaposi Sarcoma (plasma cells, hyaline globules, HHV8+).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (Dermatofibroma collagen trapping, AFX, Kaposi sarcoma vs. Bacillary angiomatosis, Glomus tumor, Cutaneous angiosarcoma).<br><strong>QBank (30m):</strong> 20 Cutaneous Mesenchymal &amp; Vascular MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log the 4-Stain Exclusion Panel for <strong>Pleomorphic Spindle Cell Tumor of the Sun-Damaged Scalp (Spindle SCC vs. Desmoplastic Melanoma vs. Angiosarcoma vs. AFX/PDS)</strong>."
+    },
+    {
+      "id": "m03-w4-d2",
+      "date": "Mon, Jan 25",
+      "tag": "Immunodeficiency LPD",
+      "badge": "b-mol",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Recall AFX vs. PDS diagnostic criteria and the 4-stain scalp spindle cell exclusion panel.<br><strong>Reading — Immunodeficiency LPDs, IgG4-RD &amp; Clonality Testing (75m):</strong> <em>WHO 5th Ed.</em> &amp; Curriculum Molecular Table — PTLD (Non-destructive, Polymorphous, Monomorphous, Classic Hodgkin PTLD; EBER-ISH); Methotrexate-associated EBV+ mucocutaneous ulcer (regresses when MTX is stopped!); IgG4-Related Disease (storiform fibrosis, obliterative phlebitis, IgG4:IgG ratio &gt;40%); &amp; <strong>PCR B-Cell (<em>IGH/IGK</em>) and T-Cell (<em>TRG/TRB</em>) Clonality Pitfalls</strong> (Pseudoclonality in paucicellular skin biopsies; somatic hypermutation in FL/DLBCL causing false-negative <em>IGH</em> PCR!).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (Polymorphous PTLD, EBV+ mucocutaneous ulcer, IgG4-related sialadenitis, Castleman HHV8+, Plasmablastic lymphoma CD138+/EBER+/MYC+/CD20-).<br><strong>QBank (20m):</strong> 20 PTLD, IgG4-RD &amp; Clonality MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log the two major <strong>PCR Clonality Pitfalls</strong> from the SCFHS Molecular Curriculum (Pseudoclonality vs. Somatic Hypermutation false negatives)."
+    },
+    {
+      "id": "m03-w4-d3",
+      "date": "Tue, Jan 26",
+      "tag": "Phase 1 Slide Sprint",
+      "badge": "b-cns",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Flash-recall Plasmablastic Lymphoma vs. Anaplastic Myeloma vs. ALK+ Large B-Cell Lymphoma vs. Primary Effusion Lymphoma.",
+      "b2": "<strong>Phase 1 Cumulative Slide Sprint (75m):</strong> 20 Timed Virtual Spot Slides @ 3m/case across all Phase 1 systems: 5 CNS + 5 Soft Tissue/Bone + 4 Head &amp; Neck/Salivary + 3 Hematopathology + 3 Dermatopathology.<br><strong>Review (30m):</strong> Immediate audit of missed spot diagnoses.",
+      "b3": "<strong>SOE Deliverable:</strong> Log any missed visual pattern from the 20-slide sprint into your SOE Log."
+    },
+    {
+      "id": "m03-w4-d4",
+      "date": "Wed, Jan 27",
+      "tag": "Phase 1 Consolidation",
+      "badge": "b-mol",
+      "time": "2.0h",
+      "b1": "<strong>Phase 1 Master One-Pager Review (90m):</strong> Active blank-sheet retrieval across all 12 One-Pagers from Month 1 (CNS, Muscle/EM, Molecular, CAP QC), Month 2 (Soft Tissue, Round Cell Sarcomas, Bone/Fibro-Osseous, Salivary/Sinonasal), and Month 3 (Small B-Cell, Aggressive B/Hodgkin/T-Cell, Melanoma/Adnexal, Blistering/Inflammatory Skin).",
+      "b2": "<strong>Cytology Integration (30m):</strong> Review Thyroid (<em>Bethesda</em>), Salivary (<em>Milan</em>), Cervical (<em>Bethesda</em>), and Lymph Node (<em>Sydney</em>) reporting tables.",
+      "b3": "<strong>SOE Deliverable:</strong> Flag your top 10 highest-yield tables for Friday's light pre-checkpoint skim."
+    },
+    {
+      "id": "m03-w4-d5",
+      "date": "Thu, Jan 28",
+      "tag": "Recalls 15-23",
+      "badge": "b-mol",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Write out the IgG4-Related Disease diagnostic triad and histological exclusions (granulomas, prominent neutrophilic microabscesses, necrotizing vasculitis).",
+      "b2": "<strong>QBank Sprint (60m):</strong> 30 Timed MCQs (15 Mixed Phase 1 + 15 <strong>2015–2023 Trainee Recalls</strong> across CNS, Soft Tissue, Bone, H&amp;N, Heme &amp; Skin).<br><strong>Deep Review (45m):</strong> Dissect every recall distractor.",
+      "b3": "<strong>SOE Deliverable:</strong> Complete your Month 3 SOE Log entries."
+    },
+    {
+      "id": "m03-w4-d6",
+      "date": "Fri, Jan 29",
+      "tag": "Protected Rest",
+      "badge": "b-rest",
+      "time": "0–1h",
+      "b1": "<strong>Protected Weekly Rest Day Before Checkpoint 1.</strong>",
+      "b2": "<em>(Optional)</em> 30m light coffee review of your SOE Log.",
+      "b3": "Rest well for tomorrow's Phase 1 Checkpoint Exam."
+    },
+    {
+      "id": "m03-w4-d7",
+      "date": "Sat, Jan 30",
+      "tag": "CHECKPOINT 1 EXAM",
+      "badge": "b-soft",
+      "time": "4.5h",
+      "b1": "<strong>CHECKPOINT 1 — Phase 1 Summative Mock Exam (2.5h):</strong><br>• <strong>Part A — Timed Written Block (90m):</strong> <strong>75 Timed Single-Best-Answer MCQs</strong> weighted across your front-loaded systems: CNS (15%), Soft Tissue &amp; Bone (20%), Head &amp; Neck/Salivary (15%), Hematopathology (20%), Dermatopathology (15%), Molecular/EM/Gen Path/CAP Quality (15%) (Target: &ge;70%).<br>• <strong>Part B — Timed Spot &amp; Cyto Block (60m):</strong> <strong>20 Virtual Spot Slides @ 3m/case</strong>.",
+      "b2": "<strong>Deep Post-Exam Audit &amp; Error Logging (90m):</strong> Score both blocks, categorize every miss (Knowledge Gap vs. Visual Misrecognition vs. Premature Closure), and log all missed entities into your 4-Domain SOE Log.",
+      "b3": "<strong>Phase 1 Sign-Off (30m):</strong> Re-rate all Confidence Sliders in Tab 4 (Verify CNS &amp; Soft Tissue/Bone &ge;3/5, and H&amp;N, Heme &amp; Skin &ge;3.5/5), click <strong>Push</strong>, and switch Month dropdown to <strong>4 - Feb 2027</strong>."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SBAP Part 2 Vault — Dr. Haitham Alamer</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <h1>SBAP Part 2 — Modular Study Vault</h1>
+      <p class="subtitle">Oct 2027 Written (2 Papers, Pass 70%) &amp; Jan 2028 Clinical (40 Spot | 10 Cyto | 6 SOE)</p>
+    </div>
+    <div class="btn-row no-print">
+      <span id="syncStatus" class="sync-badge">Local Saved</span>
+      <button class="btn btn-primary" onclick="StorageEngine.pushToGitHub()">☁️ Push</button>
+      <button class="btn btn-secondary" onclick="StorageEngine.pullFromGitHub()">🔄 Pull</button>
+      <button class="btn btn-secondary" onclick="StorageEngine.exportJSON()">💾 Backup</button>
+      <label class="btn btn-secondary">
+        📂 Restore <input type="file" accept=".json" onchange="StorageEngine.importJSON(event)" hidden />
+      </label>
+      <button class="btn btn-secondary" onclick="window.print()">🖨️ Print</button>
+    </div>
+  </header>
+
+  <!-- NAVIGATION TABS -->
+  <nav class="tab-nav no-print">
+    <button class="tab-btn active" onclick="App.switchTab('tab-schedule', this)">📅 Weekly Schedule</button>
+    <button class="tab-btn" onclick="App.switchTab('tab-onepagers', this)">📘 One-Pagers</button>
+    <button class="tab-btn" onclick="App.switchTab('tab-soe', this)">🗂️ 4-Domain SOE Log</button>
+    <button class="tab-btn" onclick="App.switchTab('tab-confidence', this)">📊 Confidence (1–5)</button>
+    <button class="tab-btn" onclick="App.switchTab('tab-settings', this)">⚙️ GitHub Sync</button>
+  </nav>
+
+  <!-- TOP BAR: SELECTORS, PROGRESS & TIMERS -->
+  <section class="top-widgets">
+    <div class="card">
+      <div class="selector-bar no-print">
+        <select id="monthSelect" onchange="App.loadSelectedPeriod()">
+          <option value="m01_nov">1 - Nov 2026 (CNS, Molecular/EM, Gen Path, QC I)</option>
+          <option value="m02_dec">2 - Dec 2026 (Soft Tissue/Bone &amp; Head/Neck)</option>
+          <option value="m03_jan">3 - Jan 2027 (Heme &amp; Dermpath + Checkpoint 1)</option>
+          <option value="m04_feb">4 - Feb 2027 (Breast/GYN &amp; Quality II + SOE)</option>
+          <option value="m05_mar">5 - Mar 2027 (GI, Medical Liver &amp; Non-Gyn Cyto)</option>
+          <option value="m06_apr">6 - Apr 2027 (GU, Medical Renal &amp; Endocrine)</option>
+          <option value="m07_may">7 - May 2027 (Thoracic, Peds &amp; Autopsy/BIP)</option>
+          <option value="m08_jun">8 - Jun 2027 (Weak Systems 2nd Pass &amp; Frozen)</option>
+          <option value="m09_jul">9 - Jul 2027 (Cyto Deep Dive &amp; IHC Master)</option>
+          <option value="m10_aug">10 - Aug 2027 (2024–2026 Recalls &amp; Mocks)</option>
+          <option value="m11_sep">11 - Sep 2027 (Final Written Sprint &amp; Taper)</option>
+          <option value="m12_nov">12 - Nov 2027 (Clinical I: Spot &amp; Cyto)</option>
+          <option value="m13_dec">13 - Dec 2027 (Clinical II: SOE Circuits)</option>
+          <option value="m14_jan">14 - Jan 2028 (Final Clinical Exam Taper)</option>
+        </select>
+        <select id="weekSelect" onchange="App.loadSelectedPeriod()">
+          <option value="week1">Week 1 (Days 1–7)</option>
+          <option value="week2">Week 2 (Days 8–14)</option>
+          <option value="week3">Week 3 (Days 15–21)</option>
+          <option value="week4">Week 4 (Days 22–28)</option>
+        </select>
+      </div>
+      <div class="card-header-row">
+        <span id="weekTitleDisplay">Week 1 Schedule</span>
+        <span id="progressText" class="highlight-stat">0 / 7 Days Done</span>
+      </div>
+      <div class="progress-track"><div id="progressBar" class="progress-fill"></div></div>
+      <div id="globalStats" class="muted-hint">Total Completed Across All Months: 0 Days</div>
+    </div>
+
+    <div class="card no-print">
+      <div class="card-header-row">
+        <h3>SCFHS Station Timer</h3>
+        <span id="timerLabel" class="timer-mode-tag">3m Spot Slide</span>
+      </div>
+      <div class="timer-row">
+        <div id="timerDisplay" class="timer-digits">03:00</div>
+        <div class="btn-row">
+          <button class="btn btn-sm" onclick="App.setTimer('spot')">3m Spot</button>
+          <button class="btn btn-sm" onclick="App.setTimer('cyto')">8m Cyto</button>
+          <button class="btn btn-sm" onclick="App.setTimer('soe')">20m SOE (10+10)</button>
+          <button id="timerBtn" class="btn btn-warn btn-sm" onclick="App.toggleTimer()">Start</button>
+          <button class="btn btn-secondary btn-sm" onclick="App.resetTimer()">Reset</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TAB 1: WEEKLY SCHEDULE -->
+  <main id="tab-schedule" class="tab-section active">
+    <div class="table-container">
+      <table class="schedule-table">
+        <thead>
+          <tr>
+            <th style="width:45px;">Done</th>
+            <th style="width:125px;">Date &amp; Tag</th>
+            <th style="width:65px;">Hours</th>
+            <th>Block 1: Retrieval &amp; Core Reading</th>
+            <th>Block 2: QBank &amp; Timed Slides</th>
+            <th>Block 3: Deliverable &amp; 4-Domain SOE</th>
+          </tr>
+        </thead>
+        <tbody id="scheduleBody"></tbody>
+      </table>
+    </div>
+  </main>
+
+  <!-- TAB 2: ONE-PAGERS -->
+  <section id="tab-onepagers" class="tab-section">
+    <div class="toolbar no-print">
+      <label>Select One-Pager for Current Month:</label>
+      <select id="onePagerSelect" onchange="App.loadOnePager(this.value)">
+        <option value="op1">One-Pager 1</option>
+        <option value="op2">One-Pager 2</option>
+        <option value="op3">One-Pager 3</option>
+        <option value="op4">One-Pager 4</option>
+      </select>
+    </div>
+    <div id="onePagerContent" class="card"></div>
+  </section>
+
+  <!-- TAB 3: 4-DOMAIN SOE LOG -->
+  <section id="tab-soe" class="tab-section">
+    <div class="card no-print">
+      <h3>Add 4-Domain SOE / Error Log Entry</h3>
+      <div class="form-grid-2">
+        <input type="text" id="soeDiag" placeholder="WHO Diagnosis + Age/Sex/Site" />
+        <input type="text" id="soeMorph" placeholder="3 Clues + Differential (+ / -)" />
+      </div>
+      <div class="form-grid-4">
+        <textarea id="soeD1" rows="2" placeholder="1. Data-Gathering (History/Imaging)"></textarea>
+        <textarea id="soeD2" rows="2" placeholder="2. Reasoning (Stepwise IHC/Mol)"></textarea>
+        <textarea id="soeD3" rows="2" placeholder="3. Decision-Making (Frozen/Stage)"></textarea>
+        <textarea id="soeD4" rows="2" placeholder="4. Professional &amp; CAP QC"></textarea>
+      </div>
+      <button class="btn btn-primary" onclick="App.addSOELog()">+ Save Entry</button>
+    </div>
+    <div id="soeLogList"></div>
+  </section>
+
+  <!-- TAB 4: CONFIDENCE -->
+  <section id="tab-confidence" class="tab-section">
+    <div id="confidenceGrid" class="confidence-grid"></div>
+  </section>
+
+  <!-- TAB 5: GITHUB SYNC -->
+  <section id="tab-settings" class="tab-section">
+    <div class="card">
+      <h3>GitHub Cloud Sync Settings (Commits to <code>data/progress.json</code>)</h3>
+      <div class="form-grid-2">
+        <input type="text" id="ghOwner" placeholder="GitHub Username" />
+        <input type="text" id="ghRepo" placeholder="Repository Name" />
+        <input type="text" id="ghBranch" value="main" placeholder="Branch (main)" />
+        <input type="password" id="ghToken" placeholder="Personal Access Token (pat_...)" />
+      </div>
+      <label class="checkbox-inline" style="margin:10px 0;">
+        <input type="checkbox" id="autoSyncToggle" /> Auto-push to GitHub on every checkbox click
+      </label>
+      <button class="btn btn-primary" onclick="StorageEngine.saveGitHubConfig()">Save Settings</button>
+    </div>
+  </section>
+
+  <script src="js/storage.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

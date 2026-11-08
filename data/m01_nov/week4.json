@@ -1,0 +1,75 @@
+{
+  "title": "Month 1, Week 4 (Nov 29 – Dec 5, 2026): Quality & Safety I (12%), Genetics/Special Stains & Month 1 Checkpoint",
+  "days": [
+    {
+      "id": "m01-w4-d1",
+      "date": "Sun, Nov 29",
+      "tag": "Quality/Safety 12%",
+      "badge": "b-qc",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Spaced recall of CNS Embryonal &amp; Sellar tumors.<br><strong>Reading — Quality &amp; Safety I (75m):</strong> <em>CAP Quality Manual</em> &amp; Curriculum Lab Operations — Pre-analytical, Analytical, and Post-analytical errors; Specimen rejection criteria; Fixation mechanics (10% NBF penetration 1 mm/hr, 10:1–20:1 volume; Breast ER/PR/HER2 cold ischemia ≤1 hr &amp; fixation 6–72 hrs); Decalcification (EDTA vs. strong hydrochloric/nitric acid).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (Histology processing/fixation artifacts, tissue floaters, + 3 CNS review slides).<br><strong>QBank (30m):</strong> 20 Lab Management &amp; Fixation/Processing MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Study One-Pager 4 (CAP Quality Assurance, Fixatives &amp; Decalcification Standards)."
+    },
+    {
+      "id": "m01-w4-d2",
+      "date": "Mon, Nov 30",
+      "tag": "Quality/Safety 12%",
+      "badge": "b-qc",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Recall fixatives for EM (2.5% glutaraldehyde), IF (Michel's/Zeus medium), urate crystals (absolute ethanol), and CAP breast fixation windows.<br><strong>Reading — Quality &amp; Safety II (75m):</strong> Curriculum R4/R5 Milestones — IHC Validation &amp; Daily Run Controls (internal vs. external controls), Turnaround Time (TAT) benchmarks (frozen section ≤20 min for 90% of cases, routine biopsy ≤2 business days), Amended vs. Addendum reports, &amp; Critical Values.",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 Frozen Section Pitfall Slides @ 3m/case (fat necrosis vs. carcinoma, cautery/crush artifact, ice-crystal artifact).<br><strong>QBank (20m):</strong> 20 CAP Quality Assurance &amp; IHC Troubleshooting MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Master the 4-Domain SOE Script in One-Pager 4 for <strong>Resolving a Suspected Floater Contaminant &amp; Frozen-to-Permanent Discrepancy</strong>."
+    },
+    {
+      "id": "m01-w4-d3",
+      "date": "Tue, Dec 1",
+      "tag": "Slides + Cyto",
+      "badge": "b-qc",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Recite the step-by-step root-cause analysis and STR identity protocol for a suspected malignant floater on a benign biopsy slide.",
+      "b2": "<strong>Slide Sprint (60m):</strong> 12 Timed Slides: 6 Mixed CNS/Artifact slides (3m/case) + 6 Thyroid &amp; Parathyroid FNA slides (<em>Bethesda</em> Cat I–VI full review @ 6m/case).<br><strong>QBank (45m):</strong> 25 Timed Quality/Safety &amp; Cytopathology MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Finalize your <em>Bethesda</em> Thyroid Cytopathology ROM, Molecular Triage, &amp; Clinical Management entry in the SOE Log."
+    },
+    {
+      "id": "m01-w4-d4",
+      "date": "Wed, Dec 2",
+      "tag": "Genetics & Stains",
+      "badge": "b-mol",
+      "time": "2.0h",
+      "b1": "<strong>Secondary System — Mendelian/Non-Mendelian Genetics &amp; Infectious Special Stains (90m):</strong> <em>Robbins</em> Trinucleotide repeat expansions, Genomic imprinting (Prader-Willi pat 15q11-13 del/mat UPD vs. Angelman mat UBE3A/pat UPD), Hereditary Cancer Syndromes (<em>Li-Fraumeni, VHL, NF1/2, MEN1/2A/2B, Cowden, Lynch, FAP</em>), &amp; Infectious Special Stains.",
+      "b2": "<strong>QBank &amp; Slides (30m):</strong> 20 Genetics &amp; Special Stain MCQs + 5 Infectious Histopathology Spot Slides (Aspergillus 45° septate vs. Mucor 90° ribbon-like pauci-septate, Histoplasma, Cryptococcus, Actinomyces).",
+      "b3": "<strong>SOE Deliverable:</strong> Log Fungal &amp; Bacterial Morphology + Special Stains (GMS, PAS, Mucicarmine, Fontana-Masson, Ziehl-Neelsen, Fite, Warthin-Starry, Gram)."
+    },
+    {
+      "id": "m01-w4-d5",
+      "date": "Thu, Dec 3",
+      "tag": "Recalls 15-23",
+      "badge": "b-qc",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Blank-sheet recall of Hereditary Cancer Syndromes (genes, chromosomes, and sentinel tumors) &amp; Fungal Special Stains.",
+      "b2": "<strong>QBank Sprint (60m):</strong> 30 Timed MCQs (15 Quality/Safety + 15 <strong>2015–2023 Trainee Recalls</strong> on Lab Management, QC, &amp; Special Stains).<br><strong>Deep Review (45m):</strong> Dissect every recall item.",
+      "b3": "<strong>SOE Deliverable:</strong> Log all CAP Quality and Special Stain recall traps into the SOE Log."
+    },
+    {
+      "id": "m01-w4-d6",
+      "date": "Fri, Dec 4",
+      "tag": "Protected Rest",
+      "badge": "b-rest",
+      "time": "0–1h",
+      "b1": "<strong>Protected Weekly Rest Day.</strong>",
+      "b2": "<em>(Optional)</em> 30m review of Month 1 SOE Log before Saturday's Checkpoint.",
+      "b3": "Rest &amp; recharge."
+    },
+    {
+      "id": "m01-w4-d7",
+      "date": "Sat, Dec 5",
+      "tag": "Month 1 Exam",
+      "badge": "b-soft",
+      "time": "4.5h",
+      "b1": "<strong>Launch Month 2 Preview — Soft Tissue &amp; Bone [Conf: 1/5] (2.0h):</strong> <em>WHO Soft Tissue &amp; Bone 5th Ed.</em> — Pattern-Based Approach to Soft Tissue Tumors + Adipocytic Tumors (Lipoma variants, Spindle cell/Pleomorphic lipoma <em>RB1</em> loss/CD34+, ALT/WDLPS &amp; DDLPS <em>MDM2/CDK4</em> amplification, Myxoid Liposarcoma <em>FUS/EWSR1::DDIT3</em>, Pleomorphic Liposarcoma).",
+      "b2": "<strong>Month 1 Checkpoint Assessment (2.0h):</strong><br>• <strong>50 Timed MCQs (60m):</strong> CNS (50%), General Path (15%), Molecular/EM (15%), Quality/Safety (15%), Thyroid Cyto (5%).<br>• <strong>15 Timed Spot Slides (45m @ 3m/case):</strong> 10 CNS + 3 Adipocytic Soft Tissue + 2 Infectious/General Path.",
+      "b3": "<strong>Month 1 Audit (30m):</strong> Score Checkpoint 1, update Confidence Sliders, click <strong>Push</strong>, and switch Month dropdown to <strong>2 - Dec 2026</strong>."
+    }
+  ]
+}

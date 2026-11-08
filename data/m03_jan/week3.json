@@ -1,0 +1,75 @@
+{
+  "title": "Month 3, Week 3 (Jan 17 – Jan 23, 2027): Adnexal/Merkel Skin Tumors, Cutaneous Lymphomas, Precursor/Myeloid/Histiocytic & Heme/Skin Mock",
+  "days": [
+    {
+      "id": "m03-w3-d1",
+      "date": "Sun, Jan 17",
+      "tag": "Dermpath III: Adnexal",
+      "badge": "b-qc",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Write out the AJCC 8th Ed. Melanoma T-stage cutoffs (T1 &le;1.0 mm, T2 &gt;1.0–2.0 mm, T3 &gt;2.0–4.0 mm, T4 &gt;4.0 mm) and SLN Capsular Nevus vs. Melanoma IHC.<br><strong>Reading (75m):</strong> <em>WHO Skin 5th Ed.</em> — Basal Cell Carcinoma (BerEP4+, BCL2 diffuse+, CD10 stromal-) vs. Trichoepithelioma (papillary mesenchymal bodies, CD10+ stroma, <strong>CK20+ Merkel cell colonizers!</strong>) vs. SCC (EMA+, p40+, BerEP4-); Sebaceous Neoplasms (Adipophilin+, AR+, EMA+; <strong>Muir-Torre MMR IHC: MSH2/MSH6/MLH1/PMS2</strong>); Cylindroma/Spiradenoma (<em>CYLD</em>), Syringoma, Microcystic Adnexal Carcinoma (perineural invasion), Pilomatricoma (<em>CTNNB1</em>, ghost cells), &amp; <strong>Merkel Cell Carcinoma</strong> (<strong>CK20 paranuclear dot+, Neurofilament+, MCPyV+; TTF1-</strong>).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 Skin slides @ 3m/case (Morpheaform BCC, Trichoepithelioma, Sebaceous carcinoma, Cylindroma, Pilomatricoma, Merkel cell carcinoma).<br><strong>QBank (30m):</strong> 15 Adnexal, Epidermal &amp; Merkel Cell MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log the classic board differential: <strong>Cutaneous Pagetoid Intraepidermal Malignancies ('P-B-S-M-M')</strong>: Paget disease (CK7+/GATA3+/HER2+), Bowen disease (p40+), Sebaceous carcinoma (AR+/Adipophilin+), Melanoma in situ (SOX10+/Melan-A+/PRAME+), and Mycosis fungoides (CD3+/CD4+)."
+    },
+    {
+      "id": "m03-w3-d2",
+      "date": "Mon, Jan 18",
+      "tag": "Cutaneous Lymphoma",
+      "badge": "b-mol",
+      "time": "2.25h",
+      "b1": "<strong>Retrieval (15m):</strong> Recall the 5 Pagetoid Intraepidermal Malignancies ('P-B-S-M-M') and Merkel Cell Carcinoma vs. Metastatic SCLC IHC.<br><strong>Reading (75m):</strong> Primary Cutaneous Lymphomas: Mycosis Fungoides (epidermotropism of haloed cerebriform lymphocytes without spongiosis, Pautrier microabscesses, wiry papillary dermal collagen; <strong>CD3+, CD4+, CD8-, loss of CD7</strong>; Large cell transformation &gt;25% large cells); Cutaneous CD30+ LPDs (Lymphomatoid Papulosis vs. Primary Cutaneous ALCL); Subcutaneous Panniculitis-Like T-Cell Lymphoma (<strong>&alpha;&beta; TCR+, CD8+, adipocyte rimming, <em>HAVCR2</em></strong>) vs. Primary Cutaneous &gamma;&delta; T-Cell Lymphoma (&gamma;&delta; TCR+, CD56+, hemophagocytosis); Cutaneous Follicle Center Lymphoma (BCL6+, <strong>BCL2-, lacks t(14;18)</strong>) vs. Cutaneous DLBCL, Leg Type (<strong>BCL2+, MUM1+, MYD88 L265P+</strong>).",
+      "b2": "<strong>Spot Slides (15m):</strong> 5 slides @ 3m/case (Mycosis fungoides, SPTCL rimming fat, Cutaneous follicle center lymphoma, Cutaneous DLBCL leg type, Cutaneous mastocytosis).<br><strong>QBank (20m):</strong> 15 Cutaneous Lymphoma MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log 4-Domain SOE entry on <strong>SPTCL (&alpha;&beta; TCR+, CD8+, Indolent) vs. Cutaneous Gamma-Delta T-Cell Lymphoma (&gamma;&delta; TCR+, CD56+, Aggressive) vs. Lupus Profundus (CD123+ plasmacytoid DCs, mucin, lymphoid follicles)</strong>."
+    },
+    {
+      "id": "m03-w3-d3",
+      "date": "Tue, Jan 19",
+      "tag": "Slides + Effusions",
+      "badge": "b-cns",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Compare Primary Cutaneous Follicle Center Lymphoma vs. Systemic Follicular Lymphoma Involving Skin vs. Primary Cutaneous DLBCL, Leg Type.",
+      "b2": "<strong>Slide Sprint (60m):</strong> 10 Timed Slides: 6 Cutaneous Lymphoma &amp; Adnexal Spot Slides (3m/case) + 4 Serous Effusion &amp; CSF Hematolymphoid Cytology Slides (Primary effusion lymphoma HHV8+, Burkitt in CSF, CLL vs. reactive pleural lymphocytosis @ 6m/case).<br><strong>QBank (45m):</strong> 20 Cutaneous Lymphoma &amp; Cyto MCQs.",
+      "b3": "<strong>SOE Deliverable:</strong> Log the workup of a <strong>Lymphocyte-Rich Pleural Effusion</strong> (Flow cytometry triage; Primary Effusion Lymphoma is HHV8+, EBER+, CD45+, CD138+, CD30+, and negative for pan-B markers CD19/CD20!)."
+    },
+    {
+      "id": "m03-w3-d4",
+      "date": "Wed, Jan 20",
+      "tag": "Heme III: Precursor/Myeloid",
+      "badge": "b-mol",
+      "time": "2.0h",
+      "b1": "<strong>Primary System — Precursor Lymphoblastic, Myeloid Sarcoma &amp; Histiocytic/Dendritic Neoplasms (90m):</strong> <em>WHO 5th Ed.</em> — B-ALL/LBL (TdT+, PAX5+, CD19+, CD10+) &amp; T-ALL/LBL (TdT+, cCD3+, CD1a/CD4/CD8+, CD99+); <strong>Myeloid Sarcoma</strong> (eosinophilic myelocytes; <strong>MPO+, Lysozyme+, CD117+, CD34+, CD43+, CD68+</strong>); BPDCN (skin bruise-like plaques; <strong>CD4+, CD56+, CD123+, TCL1+, TCF4+</strong>); &amp; Histiocytic/Dendritic Neoplasms: LCH (<em>BRAF</em> V600E, CD1a+, Langerin+, S100+), Erdheim-Chester (foamy Touton histiocytes, Factor XIIIa+, CD68+, CD1a-), Follicular Dendritic Cell Sarcoma (<strong>CD21+, CD23+, CD35+, CXCL13+, Clusterin+</strong>), &amp; Interdigitating Dendritic Cell Sarcoma (S100+, SOX10+, CD1a-, CD21-).",
+      "b2": "<strong>QBank &amp; Slides (30m):</strong> 15 Myeloid/Histiocytic/Dendritic MCQs + 5 Spot Slides (Myeloid sarcoma, BPDCN, LCH, Follicular dendritic cell sarcoma, Erdheim-Chester).",
+      "b3": "<strong>SOE Deliverable:</strong> Log the surgical pathology trap: <strong>CD43-Positive Undifferentiated Sheet-Like Tumor</strong> (If CD43+ but CD20- and CD3-, always stain for <strong>MPO, Lysozyme, CD117, CD34, and CD68</strong> to catch Myeloid Sarcoma!)."
+    },
+    {
+      "id": "m03-w3-d5",
+      "date": "Thu, Jan 21",
+      "tag": "Recalls 15-23",
+      "badge": "b-mol",
+      "time": "2.0h",
+      "b1": "<strong>Retrieval (15m):</strong> Compare LCH vs. Rosai-Dorfman vs. Erdheim-Chester vs. Follicular Dendritic Cell Sarcoma vs. Interdigitating Dendritic Cell Sarcoma (IHC &amp; EM).",
+      "b2": "<strong>QBank Sprint (60m):</strong> 30 Timed MCQs (15 Melanocytic/Cutaneous Lymphoma/Myeloid + 15 <strong>2015–2023 Trainee Recalls</strong> on Dermpath, Melanoma SLN, Cutaneous Lymphomas &amp; Histiocytic Tumors).<br><strong>Deep Review (45m):</strong> Dissect recall answer explanations.",
+      "b3": "<strong>SOE Deliverable:</strong> Add missed Dermpath &amp; Histiocytic recall traps into your 4-Domain SOE Log."
+    },
+    {
+      "id": "m03-w3-d6",
+      "date": "Fri, Jan 22",
+      "tag": "Protected Rest",
+      "badge": "b-rest",
+      "time": "0–1h",
+      "b1": "<strong>Protected Weekly Rest Day.</strong>",
+      "b2": "<em>(Optional)</em> 30m review of Week 3 SOE Log entries.",
+      "b3": "Click <strong>Push</strong> to sync Week 3 of Month 3 to GitHub."
+    },
+    {
+      "id": "m03-w3-d7",
+      "date": "Sat, Jan 23",
+      "tag": "Heme/Skin Mock",
+      "badge": "b-mol",
+      "time": "4.5h",
+      "b1": "<strong>Hematopathology &amp; Dermatopathology Consolidation + Pitfalls (2.5h):</strong> Complete review of Month 3 One-Pagers 1–4 + SCFHS Curriculum Heme Pitfalls (Crush artifact in small biopsies, CD20 loss after Rituximab therapy requiring PAX5/CD79a/CD19, Mohs frozen section artifacts in BCC vs. hair follicles).",
+      "b2": "<strong>Heme &amp; Dermpath Mastery Mini-Mock (90m):</strong> 20 Timed Heme &amp; Dermpath Virtual Spot Slides (60m @ 3m/case) + 30 Timed Heme, Flow Cytometry &amp; Dermpath MCQs (30m).",
+      "b3": "<strong>SOE Deliverable (30m):</strong> Update your Hematopathology &amp; Dermatopathology Confidence Sliders in Tab 4 (Target: 2/5 -> 3.5/5) and run a 20m SOE station on a Cutaneous Melanoma Excision + Sentinel Lymph Node."
+    }
+  ]
+}
